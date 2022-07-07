@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨‍💻 I'm a Full Stack Software Engineer currently working remotely at Globo, with +5 years experience in coding and designing applications architecture focusing on availability, resilience and scalability in a microservices environment. My main programming languages are **Golang** and **Python**, but I also used **Javascript** and **React** in the past. 
+👨‍💻 I'm a Full Stack Software Engineer currently working remotely at Globo, with +5 years experience in coding and designing applications architecture focusing on availability, resilience and scalability in a microservices environment. My main programming languages are **Golang** and **Python**, but I also used **Javascript/React** in the past. 
 
 🤝 I like not only writing code and designing applications, but collaborating with my colleagues in many ways, through technical discussions, mentoring of teammates in the beginning of their careers or bringing insights to products I work with directly. I consider myself an active listener, lifelong learner, collaborative, pragmatic, positive, and friendly. 
 
