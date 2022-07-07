@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🤝 I like not only writing code and designing applications, but collaborating with my colleagues in many ways, through technical discussions, mentoring of teammates in the beginning of their careers or bringing insights to products I work with directly. I consider myself an active listener, lifelong learner, collaborative, pragmatic, positive, and friendly. 
 
-💪 I see myself in the future in a leadership position impacting others people careers by mentoring and guiding large teams and ultimately helping teams achieve their goals.
+💪 I see myself in the future in a leadership position impacting other people careers by mentoring and guiding large teams and ultimately helping teams/companies achieve their goals.
 
 🎤 You can check some Tech Talks I gave in the past in my pinned project `talks-and-publications` below.
 
